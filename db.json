@@ -1,0 +1,244 @@
+{
+  "pictures": [
+    {
+      "id": 1,
+      "photo": "/mona_lisa.jpg",
+      "name": "Mona Lisa",
+      "publishYear": "1503-01-01",
+      "author": "Leonardo da Vinci",
+      "height": 77,
+      "width": 53,
+      "location": "Louvre, Paris"
+    },
+    {
+      "id": 2,
+      "photo": "/the_starry_night.jpg",
+      "name": "The Starry Night",
+      "publishYear": "1889-06-01",
+      "author": "Vincent van Gogh",
+      "height": 73.7,
+      "width": 92.1,
+      "location": "Museum of Modern Art, New York"
+    },
+    {
+      "id": 3,
+      "photo": "/sunflowers.jpg",
+      "name": "Sunflowers",
+      "publishYear": "1888-08-01",
+      "author": "Vincent van Gogh",
+      "height": 92.1,
+      "width": 73,
+      "location": "Van Gogh Museum, Amsterdam"
+    },
+    {
+      "id": 4,
+      "photo": "/scream.jpg",
+      "name": "The Scream",
+      "publishYear": "1893-01-01",
+      "author": "Edvard Munch",
+      "height": 91,
+      "width": 73,
+      "location": "National Gallery, Oslo"
+    },
+    {
+      "id": 5,
+      "photo": "/david.jpg",
+      "name": "David",
+      "publishYear": "1504-01-01",
+      "author": "Michelangelo",
+      "height": 517,
+      "width": 199,
+      "location": "Galleria dell'Accademia, Florence"
+    },
+    {
+      "id": 6,
+      "photo": "/impression_sunrise.jpg",
+      "name": "Impression, Sunrise",
+      "publishYear": "1872-11-01",
+      "author": "Claude Monet",
+      "height": 48,
+      "width": 63,
+      "location": "Musée Marmottan Monet, Paris"
+    },
+    {
+      "id": 7,
+      "photo": "/guernica.jpg",
+      "name": "Guernica",
+      "publishYear": "1937-06-01",
+      "author": "Pablo Picasso",
+      "height": 349,
+      "width": 776,
+      "location": "Museo Reina Sofía, Madrid"
+    },
+    {
+      "id": 8,
+      "photo": "/last_supper.jpg",
+      "name": "The Last Supper",
+      "publishYear": "1498-01-01",
+      "author": "Leonardo da Vinci",
+      "height": 460,
+      "width": 880,
+      "location": "Santa Maria delle Grazie, Milan"
+    },
+    {
+      "id": 9,
+      "photo": "/mona_lisa.jpg",
+      "name": "Mona Lisa",
+      "publishYear": "1503-01-01",
+      "author": "Leonardo da Vinci",
+      "height": 77,
+      "width": 53,
+      "location": "Louvre, Paris"
+    },
+    {
+      "id": 10,
+      "photo": "/the_starry_night.jpg",
+      "name": "The Starry Night",
+      "publishYear": "1889-06-01",
+      "author": "Vincent van Gogh",
+      "height": 73.7,
+      "width": 92.1,
+      "location": "Museum of Modern Art, New York"
+    },
+    {
+      "id": 11,
+      "photo": "/sunflowers.jpg",
+      "name": "Sunflowers",
+      "publishYear": "1888-08-01",
+      "author": "Vincent van Gogh",
+      "height": 92.1,
+      "width": 73,
+      "location": "Van Gogh Museum, Amsterdam"
+    },
+    {
+      "id": 12,
+      "photo": "/scream.jpg",
+      "name": "The Scream",
+      "publishYear": "1893-01-01",
+      "author": "Edvard Munch",
+      "height": 91,
+      "width": 73,
+      "location": "National Gallery, Oslo"
+    },
+    {
+      "id": 13,
+      "photo": "/david.jpg",
+      "name": "David",
+      "publishYear": "1504-01-01",
+      "author": "Michelangelo",
+      "height": 517,
+      "width": 199,
+      "location": "Galleria dell'Accademia, Florence"
+    },
+    {
+      "id": 14,
+      "photo": "/impression_sunrise.jpg",
+      "name": "Impression, Sunrise",
+      "publishYear": "1872-11-01",
+      "author": "Claude Monet",
+      "height": 48,
+      "width": 63,
+      "location": "Musée Marmottan Monet, Paris"
+    },
+    {
+      "id": 15,
+      "photo": "/guernica.jpg",
+      "name": "Guernica",
+      "publishYear": "1937-06-01",
+      "author": "Pablo Picasso",
+      "height": 349,
+      "width": 776,
+      "location": "Museo Reina Sofía, Madrid"
+    },
+    {
+      "id": 16,
+      "photo": "/last_supper.jpg",
+      "name": "The Last Supper",
+      "publishYear": "1498-01-01",
+      "author": "Leonardo da Vinci",
+      "height": 460,
+      "width": 880,
+      "location": "Santa Maria delle Grazie, Milan"
+    },
+    {
+      "id": 17,
+      "photo": "/mona_lisa.jpg",
+      "name": "Mona Lisa",
+      "publishYear": "1503-01-01",
+      "author": "Leonardo da Vinci",
+      "height": 77,
+      "width": 53,
+      "location": "Louvre, Paris"
+    },
+    {
+      "id": 18,
+      "photo": "/the_starry_night.jpg",
+      "name": "The Starry Night",
+      "publishYear": "1889-06-01",
+      "author": "Vincent van Gogh",
+      "height": 73.7,
+      "width": 92.1,
+      "location": "Museum of Modern Art, New York"
+    },
+    {
+      "id": 19,
+      "photo": "/sunflowers.jpg",
+      "name": "Sunflowers",
+      "publishYear": "1888-08-01",
+      "author": "Vincent van Gogh",
+      "height": 92.1,
+      "width": 73,
+      "location": "Van Gogh Museum, Amsterdam"
+    },
+    {
+      "id": 20,
+      "photo": "/scream.jpg",
+      "name": "The Scream",
+      "publishYear": "1893-01-01",
+      "author": "Edvard Munch",
+      "height": 91,
+      "width": 73,
+      "location": "National Gallery, Oslo"
+    },
+    {
+      "id": 21,
+      "photo": "/david.jpg",
+      "name": "David",
+      "publishYear": "1504-01-01",
+      "author": "Michelangelo",
+      "height": 517,
+      "width": 199,
+      "location": "Galleria dell'Accademia, Florence"
+    },
+    {
+      "id": 22,
+      "photo": "/impression_sunrise.jpg",
+      "name": "Impression, Sunrise",
+      "publishYear": "1872-11-01",
+      "author": "Claude Monet",
+      "height": 48,
+      "width": 63,
+      "location": "Musée Marmottan Monet, Paris"
+    },
+    {
+      "id": 23,
+      "photo": "/guernica.jpg",
+      "name": "Guernica",
+      "publishYear": "1937-06-01",
+      "author": "Pablo Picasso",
+      "height": 349,
+      "width": 776,
+      "location": "Museo Reina Sofía, Madrid"
+    },
+    {
+      "id": 24,
+      "photo": "/last_supper.jpg",
+      "name": "The Last Supper",
+      "publishYear": "1498-01-01",
+      "author": "Leonardo da Vinci",
+      "height": 460,
+      "width": 880,
+      "location": "Santa Maria delle Grazie, Milan"
+    }
+  ]
+}

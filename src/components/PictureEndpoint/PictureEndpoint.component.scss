@@ -1,0 +1,32 @@
+.picture-container {
+  width: 30%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.related-pictures {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.related-picture {
+  width: 100px;
+}
+
+h3 {
+  margin-top: 30px;
+  font-size: 22px;
+}
+a {
+  color: #232527;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #596164;
+  text-decoration: none;
+  cursor: pointer;
+}

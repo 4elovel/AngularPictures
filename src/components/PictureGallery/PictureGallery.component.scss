@@ -1,0 +1,19 @@
+.PicturesGrid {
+  display: flex;
+  gap: 20px;
+}
+
+.PictureColumn {
+  flex: 1;
+}
+
+a {
+  color: #232527;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #596164;
+  text-decoration: none;
+  cursor: pointer;
+}
